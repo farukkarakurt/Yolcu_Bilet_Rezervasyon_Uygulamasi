@@ -1,0 +1,2 @@
+# Yolcu_Bilet_Rezervasyon_Uygulamasi
+Yolcu_Bilet_Rezervasyon_Uygulamasi'nda bir yolcu arabasının kısa mesafeler içerisinde yaptığı yolculuk rezervasyon uygulamasıdır.
